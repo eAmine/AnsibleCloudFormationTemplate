@@ -1,0 +1,2 @@
+# AnsibleCloudFormationTemplate
+AWS Effective DevOps
